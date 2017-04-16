@@ -42,3 +42,5 @@ let python_highlight_all=1
 syntax on
 execute pathogen#infect()
 call pathogen#helptags()
+
+"This commment is dark

@@ -14,4 +14,7 @@ Then, the compiled conponent of YouCompleteMe will need to be made:
 	cd ~/.vim/bundle/YouCompleteMe
 	./install.py
 
+Finally, install Flake8 pip package:
+	pip install flake8
+
 
